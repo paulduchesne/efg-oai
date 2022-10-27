@@ -1,2 +1,2 @@
-# efg-oai-pmh
-Experiments with EFG OAI-PMH endpoint.
+# European Film Gateway OAI
+Experiments with EFG OAI endpoint.
